@@ -1,0 +1,38 @@
+{
+  "manifest": {
+    "author": "Nova#1188",
+    "version": "0.0.1",
+    "name": "Dark Pink Mode",
+    "transparency_mode": 0
+  },
+  "background": {},
+  "simple_colors": {
+    "background": -9810857,
+    "background_secondary": -1925206
+  },
+  "colors": {
+    "primary_dark_360": -929070,
+    "uikit_settings_item_text_color_light": -1925206,
+    "white_500": -994350,
+    "primary_dark_200": -994350,
+    "primary_dark_330": -994350,
+    "primary_dark_300": -994350,
+    "uikit_settings_item_text_color_dark": -1925206,
+    "primary_700": -9811117,
+    "link": -7037705,
+    "status_yellow_500": -7037705,
+    "status_yellow_500_alpha_10": 445947127,
+    "brand_new_260": -7037705,
+    "brand_500_alpha_20": 870957521,
+    "primary_630": -7445645,
+    "primary_660": -994350
+  },
+  "drawable_tints": {
+    "ic_sidebar_notifications_on_dark_24dp": -994350,
+    "ic_status_online_16dp": -8984678,
+    "ic_status_idle_16dp": -604040,
+    "ic_status_dnd_16dp": -1541508,
+    "ic_status_invisible_16dp": -7499627,
+    "ic_mobile": -8984678
+  }
+}
