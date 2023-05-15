@@ -6,6 +6,9 @@
     "transparency_mode": 0
   },
   "background": {},
+  "fonts":
+    "*": "https://cdn.discordapp.com/attachments/703632895696306176/1107419932779610262/PinkChicken-Regular.ttf"
+},
   "simple_colors": {
     "background": -9810857,
     "background_secondary": -1925206
